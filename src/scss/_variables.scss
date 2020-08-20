@@ -1,0 +1,9 @@
+ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	li {
+		border: solid #1da1f2 1px;
+		padding: 1rem;
+	}
+}
